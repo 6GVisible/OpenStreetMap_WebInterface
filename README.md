@@ -25,9 +25,9 @@ NodeJS scripts remain unchanged except for the removal of hardcoded InfluxDB con
 - Instructions for setting up the Raspberry Pi & running the scripts included in `RaspberryPiScripts` -folder's `README.md`
 
 ## Contributors
-Teemu Blomqvist  
-Tatu Niemikorpi
-Iiro Tauriainen
-Matti Tolonen
-Jimi Vainikainen
+- Teemu Blomqvist
+- Tatu Niemikorpi
+- Iiro Tauriainen
+- Matti Tolonen
+- Jimi Vainikainen
 
