@@ -1,0 +1,15 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: mosquitto-route
+  labels:
+    app: mosquitto
+spec:
+  host: connecticar-mqtt.2.rahtiapp.fi
+  to:
+    kind: Service
+    name: mosquitto-service
+  port:
+    targetPort: 8883
+  tls:
+    termination: passthrough
