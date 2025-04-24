@@ -17,7 +17,7 @@ This repository contains the **Rahti2** deployment section of the **ConnectiCar 
 ### **Telegraf**
 - OpenShift-compatible configuration for deploying a Telegraf.
 - Agent for collecting and forwarding metrics to InfluxDB.
--
+  
 ### **NodeJScripts**
 - Scripts for OpenStreetMap
 
