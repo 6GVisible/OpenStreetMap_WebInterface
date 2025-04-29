@@ -1,3 +1,0 @@
-can
-paho-mqtt
-cantools
