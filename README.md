@@ -23,12 +23,4 @@ This repository contains the **Rahti2** deployment section of the **ConnectiCar 
 
 ### **Manual**
 - Word document detailing deployment steps, usage, and configuration in Rahti2 environment.
-
----
-
-## Security Notice – `Credentials/` 
-
-> ⚠️ **IMPORTANT SECURITY WARNING**
-
-The `Credentials/` directory contains **administrator-level username, passwords and API Tokens** in plaintext for all services.
-The credentials have been added to this private repository at the client's request.
+------
