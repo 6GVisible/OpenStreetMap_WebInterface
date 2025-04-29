@@ -116,7 +116,7 @@ interface= YOUR ADDRESS FROM ip a
     ```sh
     pip install -r requirements.txt
     ```
-3. Opening CAN bus:
+3. Opening CAN bus data from can0 interface:
    ```sh
     sudo ip link set can0 type can bitrate 500000
     sudo ip link set up can0
