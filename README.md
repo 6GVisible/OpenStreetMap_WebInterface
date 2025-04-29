@@ -1,5 +1,3 @@
-# OpenStreetMap
-
 # Instructions for use
 - Instructions for setting up the Raspberry Pi & running the scripts included in `MondeJSScripts` -folder's `README.md`
 
