@@ -1,0 +1,22 @@
+{
+    "mqtt": {
+        "certs_path": "./certs/ca.crt",
+        "broker": "connecticar-mqtt.2.rahtiapp.fi",
+        "port": 443,
+        "topic": "toyota"
+    },
+    "can": {
+        "interface": "socketcan",
+        "channel": "can0",
+        "delay": 0,
+        "database": "./data/toyota_rav4_hybrid_2017_pt_generated.dbc",
+        "filter_set": []
+    },
+    "simulation": {
+        "interface": "file",
+        "channel": "./data/can_dump_2025-03-18T14_31_26.798219.json",
+        "delay": 0,
+        "gps_data": "./data/gpsmockdata.json",
+        "database": "./data/toyota_rav4_hybrid_2017_pt_generated.dbc"
+    }
+}
