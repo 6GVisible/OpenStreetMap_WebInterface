@@ -1,3 +1,4 @@
+#ConnectiCar v1.0
 from serial_handler import SerialHandler
 import logging
 import sys
