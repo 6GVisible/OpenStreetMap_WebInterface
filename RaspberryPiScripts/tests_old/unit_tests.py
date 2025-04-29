@@ -1,3 +1,4 @@
+# Author: ConnectiCar v1.0
 import unittest
 from serial_handler import SerialHandler
 
