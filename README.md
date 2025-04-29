@@ -1,3 +1,0 @@
-# OpenStreetMap_WebInterface
-
-NodeJs
