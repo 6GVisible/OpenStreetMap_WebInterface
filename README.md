@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ConnectiCar V2
 
 ConnectiCar V2 is the next iteration of the ConnectiCar project. ConnectiCar V2 continuation project started in January 2025 and concluded in April 2025.
@@ -33,7 +32,4 @@ NodeJS scripts remain unchanged except for the removal of hardcoded InfluxDB con
 - Jimi Vainikainen
 
 =======
-# OpenStreetMap_WebInterface
 
-NodeJs
->>>>>>> 68851fc6c01bddd90d3f984f38a30d063a9807bb
