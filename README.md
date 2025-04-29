@@ -3,7 +3,7 @@
 ConnectiCar V2 is the next iteration of the ConnectiCar project. ConnectiCar V2 continuation project started in January 2025 and concluded in April 2025.
 
 Please visit the original 
-[Version 1 repository](https://github.com/jereej/ConnectiCar/)
+[Version 1 repository](https://github.com/6GVisible/ConnectiCar1.0)
 
 ## Modifications
 - Added functionality for reading CAN bus data from the vehicle by adapting another script for this project's needs.
